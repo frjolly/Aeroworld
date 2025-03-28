@@ -1,3 +1,3 @@
 # Aeroworld
 
-[Lien vers ma carte Mentale sous fromat Miro](https://miro.com/app/board/uXjVIJkCdKI=/)
+[Lien vers ma carte Mentale sous format Miro](https://miro.com/app/board/uXjVIJkCdKI=/)
