@@ -9,8 +9,10 @@
 ![aero](https://github.com/frjolly/Aeroworld/blob/main/images/GanttAero.jpg)
 **Diagramme de Gantt au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/.pbix)**
 
+
 📊**Tableau de Bord de veille Technologique BI Analyst:**
 ![aero](https://github.com/frjolly/Aeroworld/blob/main/images/VeilleAero.jpg)
 **Tableau de Bord au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/.pbix)**
+
 
 🛠️ **PDF**
