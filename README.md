@@ -11,7 +11,7 @@
 
 
 📊**Tableau de Bord de veille Technologique BI Analyst:**
-![aero](https://github.com/frjolly/Aeroworld/blob/main/images/VeilleAer.jpg)
+![aero](https://github.com/frjolly/Aeroworld/blob/main/images/VeilleAero.jpg)
 **Tableau de Bord au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/.pbix)**
 
 
