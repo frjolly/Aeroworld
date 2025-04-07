@@ -1,4 +1,7 @@
-![aero](https://github.com/frjolly/Aeroworld/blob/main/images/Aero.jpg)
+<div align="center">
+  <img src="https://github.com/frjolly/Aeroworld/blob/main/images/Aero.jpg" alt="aero">
+</div>
+
 # Candidature Aeroworld 
 ***Portfolio des différents documents requis pour la candidature au poste Chef de projet en analyse data pour l'entreprise Aeroworld***
 
