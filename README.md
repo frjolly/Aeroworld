@@ -14,7 +14,7 @@
 ![aero](https://github.com/frjolly/Aeroworld/blob/main/images/VeilleAero2.jpg)
 **Tableau de Bord au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/.pbix)**
 
-**Session de formation PowerBI [FormationPowerBI](https://1drv.ms/v/c/a5a9f1d855e08e9e/EZ407Gjym7hPsvtg9tOceW8BWedpkCUYbJgtxh0F-8HGRA?e=I7AArR)**
+**Session de formation PowerBI [FormationPowerBI](https://youtu.be/gYUa_bBmImw)**
 
 
 
