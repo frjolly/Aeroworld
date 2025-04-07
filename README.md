@@ -16,6 +16,6 @@
 
 **Session de formation [video Power BI](https://youtu.be/gYUa_bBmImw)**
 
-
-
 🛠️ **PDF**
+**Documentation de création de graphiques power BI [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/Documentation_Creation_Graphique_PowerBI.pdf)**
+
