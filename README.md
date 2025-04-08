@@ -3,7 +3,7 @@
 </div>
 
 # Candidature Aeroworld 
-***Portfolio des différents documents requis pour la candidature au poste Chef de projet en analyse data pour l'entreprise Aeroworld***
+***Portfolio des différents documents requis pour la candidature au poste Chef de projet en analyse de données et Business Intelligence pour l'entreprise Aeroworld***
 
 ### GESTION DE PROJET
 📊 **Carte Mentale**
