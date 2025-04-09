@@ -13,9 +13,9 @@
 ![aero](https://github.com/frjolly/Aeroworld/blob/main/images/GanttAero.jpg)
 **Diagramme de Gantt au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/.pbix)**
 
-🛠️ **Analyse du besoin client Aeroworld [PDF](https://github.com/frjolly/Aeroworld/blob/main/.pdf)**
+🛠️ **Analyse du besoin client Aeroworld [PDF](https://github.com/frjolly/Aeroworld/blob/main/Besoins_métiers_Aeroworld.pdf)**
 
-🛠️ **Cahier des charges Aeroworld [PDF](https://github.com/frjolly/Aeroworld/blob/main/.pdf)**
+🛠️ **Cahier des charges Aeroworld [PDF](https://github.com/frjolly/Aeroworld/blob/main/Cahier_Des_Charges_Fonctionnel_Portfolio_Aeroworld.pdf)**
   
 ### VEILLE TECHNOLOGIQUE
 📊**Tableau de Bord de veille Technologique BI Analyst:**
