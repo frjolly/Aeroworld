@@ -3,7 +3,7 @@
 </div>
 
 # Candidature Aeroworld 
-***Portfolio des différents documents requis pour la candidature au poste Chef de projet en analyse de données et Business Intelligence pour l'entreprise Aeroworld.***
+***Portfolio des différents documents requis pour la candidature au poste de Chef de projet en analyse de données et Business Intelligence pour l'entreprise Aeroworld.***
 
 ### GESTION DE PROJET
 📊 **Carte Mentale**
@@ -23,7 +23,7 @@
 **Tableau de Bord au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/.pbix)**
 
 ### TRANSFERT DE COMPETENCES
-🎥 **Session de formation [video Power BI](https://youtu.be/gYUa_bBmImw)**
+🎥 **Session de formation [video](https://youtu.be/gYUa_bBmImw)**
 
 🛠️ **Documentation de création de graphiques Power BI [PDF](https://github.com/frjolly/Aeroworld/blob/main/Documentation_Creation_Graphique_PowerBI.pdf)**
 
