@@ -22,8 +22,8 @@
 ![aero](https://github.com/frjolly/Aeroworld/blob/main/images/VeilleAero2.jpg)
 **Tableau de Bord au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/.pbix)**
 
-### TRANSFERT DE COMPETENCES
-🎥 **Session de formation [video](https://youtu.be/gYUa_bBmImw)**
+### FORMATION / TRANSFERT DE COMPETENCES
+🎥 **Session de formation [video](https://youtu.be/BdtM3XaFG-0)**
 
 🛠️ **Documentation de création de graphiques Power BI [PDF](https://github.com/frjolly/Aeroworld/blob/main/Documentation_Creation_Graphique_PowerBI.pdf)**
 
