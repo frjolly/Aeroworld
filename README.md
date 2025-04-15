@@ -3,7 +3,12 @@
 </div>
 
 # Candidature Aeroworld 
-***Portfolio des différents documents requis pour la candidature au poste de Chef de projet en analyse de données et Business Intelligence pour l'entreprise Aeroworld.***
+
+Pour appuyer ma candidature au poste de Chef de projet en analyse de données et Business Intelligence, j'ai constitué un portfolio complet rassemblant tous les éléments requis, visant à mettre en avant mon expertise et mes compétences techniques. Il inclut une analyse détaillée des besoins permettant de structurer les enjeux métiers, une veille stratégique approfondie, une vidéo démontrant mes capacités pédagogiques, ainsi qu'une documentation claire sur les processus employés.
+
+Mon objectif est de démontrer ma maîtrise des outils et des approches indispensables pour répondre aux défis stratégiques de l’entreprise. En adoptant une démarche axée sur l'innovation et la collaboration, je souhaite apporter une contribution significative à tous les projets, en exploitant diverses données pour améliorer les performances et assurer une gestion sécurisée.
+
+Ce portfolio reflète mon expertise et mon engagement à répondre aux exigences du poste. Il témoigne également de mon enthousiasme à intégrer les équipes et à relever les défis qui s'y présentent.
 
 ### GESTION DE PROJET
 📊 **Carte Mentale**
