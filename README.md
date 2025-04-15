@@ -11,7 +11,7 @@
 
 📊 **Diagramme de Gantt de Gestion du projet:**
 ![aero](https://github.com/frjolly/Aeroworld/blob/main/images/GanttAero.jpg)
-**Diagramme de Gantt au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/.pbix)**
+**Diagramme de Gantt au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/Gantt_AeroWorld.pbix)**
 
 🛠️ **Analyse du besoin client Aeroworld [PDF](https://github.com/frjolly/Aeroworld/blob/main/Besoins_métiers_Aeroworld.pdf)**
 
@@ -20,7 +20,7 @@
 ### VEILLE TECHNOLOGIQUE
 📊**Tableau de Bord de veille Technologique BI Analyst:**
 ![aero](https://github.com/frjolly/Aeroworld/blob/main/images/VeilleAero2.jpg)
-**Tableau de Bord au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/.pbix)**
+**Tableau de Bord au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/Aeroworld_Veille_TDB)**
 
 ### FORMATION / TRANSFERT DE COMPETENCES
 🎥 **Session de formation [video](https://youtu.be/BdtM3XaFG-0)**
