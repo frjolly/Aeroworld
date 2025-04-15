@@ -23,7 +23,7 @@
 **Tableau de Bord au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/Aeroworld_Veille_TDB.pbix)**
 
 ### FORMATION / TRANSFERT DE COMPETENCES
-🎥 **Session de formation ce création de graphiques sur Power BI [video](https://youtu.be/BdtM3XaFG-0)**
+🎥 **Session de formation de création de graphiques sur Power BI [video](https://youtu.be/BdtM3XaFG-0)**
 
 🛠️ **Documentation de création de graphiques Power BI [PDF](https://github.com/frjolly/Aeroworld/blob/main/Documentation_Creation_Graphique_PowerBI.pdf)**
 
