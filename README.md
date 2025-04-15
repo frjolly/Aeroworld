@@ -20,7 +20,7 @@
 ### VEILLE TECHNOLOGIQUE
 📊**Tableau de Bord de veille Technologique BI Analyst:**
 ![aero](https://github.com/frjolly/Aeroworld/blob/main/images/VeilleAero2.jpg)
-**Tableau de Bord au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/Aeroworld_Veille_TDB)**
+**Tableau de Bord au format [PowerBI](https://github.com/frjolly/Aeroworld/blob/main/Aeroworld_Veille_TDB.pbix)**
 
 ### FORMATION / TRANSFERT DE COMPETENCES
 🎥 **Session de formation [video](https://youtu.be/BdtM3XaFG-0)**
